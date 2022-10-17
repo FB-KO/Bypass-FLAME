@@ -1,2 +1,1 @@
-from Bypass-FLAME import menu
-menu()
+import FB-KO
