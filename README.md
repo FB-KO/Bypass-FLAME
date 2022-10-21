@@ -6,3 +6,5 @@ git clone https://github.com/FB-KO/Bypass-FLAME
 
 cd Bypass-FLAME
 
+python Run.py
+
