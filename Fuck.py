@@ -1,1 +1,1 @@
-import ('Fuck')
+import Fuck
